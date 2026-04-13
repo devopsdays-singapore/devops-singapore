@@ -6,13 +6,20 @@ We focus on practical DevOps, Platform Engineering, CI/CD pipelines, Infrastruct
 
 ### Next Event
 **DevOps Pipelines for Beginners: Back to Basics**  
-📅 Friday, 24 April 2026  
+📅 Friday, 24 April 2026
+🕕 6:30 PM – 9:00 PM (doors open at 6:00 PM)
 
-**Speakers:**  
-Representatives from **GitHub** and the **Cyber Security Agency of Singapore (CSA)**  
-(Speakers and talk titles to be announced shortly)
+**Confirmed Speaker**  
+[Sithu Kyaw](https://www.linkedin.com/in/sithukyaw/) — Senior Solution Engineer at **Microsoft Singapore**  
+Talk: *Agentic DevOps with GitHub: From Automation to Intelligent Software Delivery*
 
-- [View & RSVP on Luma](https://lu.ma/[replace-with-your-luma-link])  
+**Venue**  
+RSM Singapore Office  
+8 Wilkie Road, #03-08 Wilkie Edge, Singapore 228095
+
+**This event is done in partnership with** [TTAB DevOps Chapter](https://www.ttab.org.sg)
+
+- [View & RSVP on Luma](https://luma.com/5w55jcbw)  
 - [Discuss & Plan on GitHub](https://github.com/devopsdays-singapore/devops-singapore/issues) (look for the open event issue)
 
 ### Join the Community
