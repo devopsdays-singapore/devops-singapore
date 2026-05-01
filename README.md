@@ -1,3 +1,37 @@
+**Exciting Update for DevOps Singapore – May Event!** 🚀
+
+We’re happy to announce our next event:
+
+### Observability in Practice: Monitoring, Logs & Cost Control
+
+📅 Friday, 15 May 2026  
+🕕 6:30 PM – 9:00 PM (doors open at 6:00 PM)  
+📍 Open Government Products (OGP)  
+51 Bras Basah Road, #04-08, Singapore 189554
+
+### Confirmed Speakers
+
+- **Daniele Polencic** (LearnKube)  
+  **Talk:** From OTEL to Custom Solutions: an Observability Story
+
+- **Tham Xun Hong Bob & Simon Chua Junyong** (Runtime Platform, CSIT)  
+- **James Yeo Gui Zhong & Rachel Ng Min Yee** (Digital Products, CSIT)  
+  **Talk:** From Fragmentation to Centralized Observability
+
+This event will feature real-world stories, practical lessons, and honest discussions around OpenTelemetry, centralized observability platforms, cost control, and production challenges — no sales pitches.
+
+**What to Expect:**
+- 🔧 Real implementation stories and lessons learned
+- 🤖 Practical insights on OTEL and custom solutions
+- 💡 How teams moved from fragmented to centralized observability
+- 🤝 Strong networking with the Singapore DevOps community
+
+Light food and drinks will be provided.
+
+**RSVP here:** https://lu.ma/438pi61h
+
+Looking forward to seeing many of you there!
+
 # DevOps Singapore 🇸🇬
 
 Regular community meetups under the **DevOpsDays Singapore** umbrella.
@@ -5,21 +39,31 @@ Regular community meetups under the **DevOpsDays Singapore** umbrella.
 We focus on practical DevOps, Platform Engineering, CI/CD pipelines, Infrastructure as Code, Observability, SRE, and related topics in Singapore.
 
 ### Next Event
-**DevOps Pipelines for Beginners: Back to Basics**  
-📅 Friday, 24 April 2026
-🕕 6:30 PM – 9:00 PM (doors open at 6:00 PM)
+**May Event – 15 May 2026**  
+**Observability in Practice: Monitoring, Logs & Cost Control** 
+📅 Friday, 15 May 2026
+🕕 6:30 PM – 9:00 PM | Hosted by Open Government Products (OGP)  
+**RSVP:** [https://lu.ma/438pi61h](https://lu.ma/438pi61h)
 
 **Confirmed Speaker**  
 [Sithu Kyaw](https://www.linkedin.com/in/sithukyaw/) — Senior Solution Engineer at **Microsoft Singapore**  
 Talk: *Agentic DevOps with GitHub: From Automation to Intelligent Software Delivery*
 
+**Confirmed Speakers**
+- **[Daniele Polencic](https://linkedin.com/in/danielepolencic)** – LearnKube  
+  Talk: *From OTEL to Custom Solutions: an Observability Story*
+- **Tham Xun Hong Bob & Simon Chua Junyong** – Runtime Platform, CSIT  
+- **James Yeo Gui Zhong & Rachel Ng Min Yee** – Digital Products, CSIT  
+  Talk: *From Fragmentation to Centralized Observability*
+
 **Venue**  
-RSM Singapore Office  
-8 Wilkie Road, #03-08 Wilkie Edge, Singapore 228095
+**Open Governments Products**
+51 Bras Basah Rd, #04-08,
+Singapore 189554
 
 **This event is done in partnership with** [TTAB DevOps Chapter](https://www.ttab.org.sg)
 
-- [View & RSVP on Luma](https://luma.com/5w55jcbw)  
+- [View & RSVP on Luma](https://luma.com/438pi61h)  
 - [Discuss & Plan on GitHub](https://github.com/devopsdays-singapore/devops-singapore/issues) (look for the open event issue)
 
 ### Join the Community
